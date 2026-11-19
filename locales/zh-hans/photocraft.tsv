@@ -1111,6 +1111,7 @@ cameraData	Focal Length (35 mm)	焦距（35 毫米等效）
 	Guides, Grid & Slices…	参考线、网格与切片…
 	Gutter	栏间距
 	H	高
+	Hair	发丝
 	Hair tier unavailable — used the standard model (needs the ort build with feynobg.onnx)	发丝档不可用——已用标准模型(需要 ort 构建并放置 feynobg.onnx)
 	Half Round	半圆
 	Halftone Screen	半调网屏
@@ -2347,6 +2348,7 @@ curves	Smooth	平滑
 	Stylized dabs from a history state	从历史状态绘制风格化点涂
 	Stylus Wheel	触控笔滚轮
 	Subject	主体
+	Subject tier	主体档位
 	Subtract from Sample	从采样中减去
 	Subtract from selection  ({key})	从选区中减去  （{key}）
 	Subtract from selection  (⌥)	从选区中减去  (⌥)

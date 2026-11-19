@@ -1081,6 +1081,7 @@ cameraData	Focal Length (35 mm)	焦距（35 公釐等效）
 	Guides, Grid & Slices…	參考線、格點和切片…
 	Gutter	欄距
 	H	高
+	Hair	髮絲
 	Hair tier unavailable — used the standard model (needs the ort build with feynobg.onnx)	髮絲檔不可用——已用標準模型(需要 ort 建置並放置 feynobg.onnx)
 	Half Round	半圓
 	Halftone Screen	半色調網屏
@@ -2288,6 +2289,7 @@ curves	Smooth	平滑
 	Stylized dabs from a history state	從歷史狀態繪製風格化點塗
 	Stylus Wheel	觸控筆滾輪
 	Subject	主體
+	Subject tier	主體檔位
 	Subtract from Sample	從樣本中減去
 	Subtract from selection  ({key})	從選取範圍減去  ({key})
 	Subtract Front Shape	減去前方形狀
