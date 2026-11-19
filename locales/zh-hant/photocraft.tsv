@@ -372,6 +372,7 @@ fontWeight	Bold	粗體
 	Check All Layers	檢查所有圖層
 	Check for Updates…	檢查更新…
 	Check Spelling	拼字檢查
+	Cheeks	臉頰
 	Chisel Hard	雕刻清晰
 	Chisel Soft	雕刻柔和
 	Choke	收縮
@@ -432,6 +433,7 @@ fontWeight	Bold	粗體
 	Close Others	關閉其他
 	Close Style Options	關閉樣式選項
 	Close Tab Group	關閉索引標籤群組
+	Clothes	衣服
 	Clouds	雲狀效果
 	CMYK Sliders	CMYK 滑桿
 	CMYK Spectrum	CMYK 色譜
@@ -900,8 +902,11 @@ fontWeight	ExtraLight	特細
 	Extras	顯示額外內容
 	Extrude…	突出…
 	Eyedroppers:	滴管：
+	Eyelids	眼瞼
+	Eyes	眼睛
 	F cycles the views; hold X to see the image	按 F 切換檢視；按住 X 檢視影像
 cameraData	F-Stop	光圈值
+	Face	臉部
 	Facet	切面
 	Factor:	係數：
 	Fade	淡化
@@ -1316,6 +1321,7 @@ cameraRaw	Lights	亮調
 	Link width and height	連結寬度和高度
 	Link with Layer	與圖層連結
 	Linux display server	Linux 顯示伺服器
+	Lips	嘴唇
 	Liquify is not open	液化未開啟
 	Liquify…	液化…
 	List	List
@@ -1541,6 +1547,7 @@ cameraData	Model	型號
 	No object found there — drag a rectangle around it	那裡找不到物件 — 請在其周圍拖曳矩形
 	No path to make a selection from: draw one with the Pen tool or select one in the Paths panel.	沒有可用來建立選取範圍的路徑：請使用鋼筆工具繪製，或在路徑面板中選取一個路徑。
 	No patterns	無圖樣
+	No person region found — try Select Subject first	找不到人物區域——請先嘗試選取主體
 	No pin selected	未選取圖釘
 	No presets for the current tool.	目前工具沒有預設集。
 	No presets of this type.	沒有此類型的預設集。
@@ -1670,6 +1677,8 @@ cameraData	Model	型號
 	Per-document RAM limit (MB)	每個文件的 RAM 上限 (MB)
 	Perceptual	感知式
 	Performance…	效能…
+	Person	人物
+	Person regions	人物區域
 	Perspective Crop Tool	透視裁切工具
 	Perspective Warp	透視彎曲
 	Perspective Warp is not active	透視彎曲未啟用
@@ -2051,6 +2060,7 @@ fontWeight	Regular	常規
 	Select Layer Above	選取上方圖層
 	Select Layer Below	選取下方圖層
 	Select Linked Layers	選取連結的圖層
+	Select Region	選取區域
 	Select Subject	選取主體
 	Select Subject (Hair)	選取主體(髮絲)
 	Select text to apply a character style	選取文字以套用字元樣式
@@ -2176,6 +2186,7 @@ fontWeight	SemiBold	半粗
 	Size	大小
 	Size Jitter	大小快速變換
 	Skewness	偏度
+	Skin	皮膚
 	Skip transform when placing	置入時略過變形
 	Sky	天空
 	Slab Serif	粗襯線
