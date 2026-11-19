@@ -1081,6 +1081,7 @@ cameraData	Focal Length (35 mm)	焦距（35 公釐等效）
 	Guides, Grid & Slices…	參考線、格點和切片…
 	Gutter	欄距
 	H	高
+	Hair tier unavailable — used the standard model (needs the ort build with feynobg.onnx)	髮絲檔不可用——已用標準模型(需要 ort 建置並放置 feynobg.onnx)
 	Half Round	半圓
 	Halftone Screen	半色調網屏
 	Handwritten	手寫體
@@ -2050,6 +2051,7 @@ fontWeight	Regular	常規
 	Select Layer Below	選取下方圖層
 	Select Linked Layers	選取連結的圖層
 	Select Subject	選取主體
+	Select Subject (Hair)	選取主體(髮絲)
 	Select text to apply a character style	選取文字以套用字元樣式
 	Select the crop presets to delete	選取要刪除的裁切預設集
 	Select the crop presets to delete:	選取要刪除的裁切預設集：

@@ -1111,6 +1111,7 @@ cameraData	Focal Length (35 mm)	焦距（35 毫米等效）
 	Guides, Grid & Slices…	参考线、网格与切片…
 	Gutter	栏间距
 	H	高
+	Hair tier unavailable — used the standard model (needs the ort build with feynobg.onnx)	发丝档不可用——已用标准模型(需要 ort 构建并放置 feynobg.onnx)
 	Half Round	半圆
 	Halftone Screen	半调网屏
 	Handwritten	手写体
@@ -2103,6 +2104,7 @@ fontWeight	Regular	常规
 	Select Layer Below	选择下方图层
 	Select Linked Layers	选择链接的图层
 	Select Subject	选择主体
+	Select Subject (Hair)	识别主体(发丝)
 	Select text to apply a character style	选择文字以应用字符样式
 	Select the crop presets to delete	选择要删除的裁剪预设
 	Select the crop presets to delete:	选择要删除的裁剪预设：
