@@ -381,3 +381,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 
 2026-11-20: zh-hans/zh-hant add PhotoCraft's "Body Sculpt…" (身体塑形…/身體塑形…) and
 "Face Sculpt…" (面部重塑…) Filter-menu labels, AI-assisted, no native-speaker review.
+
+2026-11-20 (second batch): zh-hans/zh-hant add the PhotoCraft Body/Face Sculpt panel's
+section names, slider row labels, preset names and button strings (~86 entries each),
+AI-assisted, no native-speaker review.

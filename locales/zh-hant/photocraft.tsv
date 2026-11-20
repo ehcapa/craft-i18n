@@ -72,6 +72,7 @@
 	A picked document is no longer a grayscale document of the same size.	所選的一個文件已不再是相同大小的灰階文件。
 	A picked document is no longer open.	所選的一個文件已不再開啟。
 	A save to {name} is still running; try again when it finishes	仍在儲存到 {name}；請在完成後再試一次
+	AI Shaping	AI塑形
 	About PhotoCraft	關於 PhotoCraft
 	Accelerated	加速
 	Accept and Go to Conflict	接受並前往衝突
@@ -166,6 +167,7 @@ cameraRaw	Amount	強度
 	Appearance (Layer Style)	外觀 (圖層樣式)
 	Appearance Mode	外觀模式
 	Apple Watch 45mm	Apple Watch 45mm
+	Applies and stays open	應用後保持打開
 	Applies at next launch.	下次啟動時套用。
 	Applies immediately when saved. Memory is not reserved in advance.	儲存後立即套用。不會預先保留記憶體。
 	Apply At Canvas Bounds	套用效果至版面邊界
@@ -183,6 +185,7 @@ cameraRaw	Amount	強度
 	Aqua	水藍色
 	Arbitrary…	任意角度…
 	Area	區域
+	Arms	瘦手臂
 	Art & Illustration	藝術與插畫
 	Art History Brush	藝術歷史畫筆
 	Art History Brush Tool	藝術歷史畫筆工具
@@ -244,6 +247,7 @@ cameraRaw	Amount	強度
 	Before (Y)	之前 (Y)
 	Begin recording	開始記錄
 	Behind	後面
+	Belly	瘦腹
 	Bevel	斜角
 	Bevel & Emboss	斜角和浮雕
 	Bevel & Emboss…	斜角和浮雕…
@@ -300,6 +304,14 @@ fontWeight	Bold	粗體
 	Brightness/Contrast	亮度/對比
 	Brightness/Contrast…	亮度/對比…
 	Bring the selected pin forward	將所選控制點前移
+	Brow Head	眉頭
+	Brow Height	眉毛位置
+	Brow Shape	眉毛形狀
+	Brow Spacing	眉距
+	Brow Tail	眉尾
+	Brow Thickness	眉毛粗細
+	Brow Tilt	眉毛傾斜
+	Brows	眉毛
 	Browser storage is unavailable; brushes are session-only. Keep this tab open to retain them.	瀏覽器儲存空間無法使用；筆刷僅在本次工作階段有效。請保持此分頁開啟以保留它們。
 	Brush	筆刷
 	Brush Name	筆刷名稱
@@ -324,6 +336,8 @@ fontWeight	Bold	粗體
 	Bundle Arrow-Key Nudges	合併方向鍵微移
 	Burn	加深
 	Burn Tool	加深工具
+	Bust	豐胸
+	Bust Lift	胸位提升
 	Butt / Flat	平頭
 	Button Mode	按鈕模式
 	Button Mode On	按鈕模式 開
@@ -332,6 +346,7 @@ fontWeight	Bold	粗體
 	Cache tile size	快取拼貼大小
 	Calculations…	運算…
 	Calibration	校準
+	Calves	小腿
 	Camera Data	相機資料
 	Cancel (Esc)	取消 (Esc)
 	Cancel any current edits (Esc)	取消目前所有編輯 (Esc)
@@ -373,7 +388,9 @@ fontWeight	Bold	粗體
 	Check All Layers	檢查所有圖層
 	Check for Updates…	檢查更新…
 	Check Spelling	拼字檢查
+	Cheekbones	顴骨
 	Cheeks	臉頰
+	Chin Length	下巴長短
 	Chisel Hard	雕刻清晰
 	Chisel Soft	雕刻柔和
 	Choke	收縮
@@ -486,6 +503,75 @@ fontWeight	Bold	粗體
 	Colorize	色彩化
 	Combine Shapes	合併形狀
 	Comic Book	漫畫書
+	Composition	組合
+	Double Chin	雙下巴
+	Eye Height	眼高
+	Eye Position	眼睛位置
+	Eye Size	眼睛大小
+	Eye Spacing	眼距
+	Eye Tilt	眼睛傾斜
+	Eye Width	眼寬
+	Face Flow	面部流暢
+	Face Size	小臉
+	Face Width	臉寬
+	Feature Symmetry	五官對稱
+	Forehead Height	額頭高度
+	Forehead Width	額頭寬度
+	Gum Smile	露齦調整
+	Hairline	髮際線
+	Head Size	小頭
+	Height	增高
+	Heroic	英氣
+	Hips	美臀
+	Inner Corner	內眼角
+	Jaw	下頜
+	Juvenile	少年
+	Leg Length	長腿
+	Lengths	長度
+	Lip Tilt	嘴唇傾斜
+	Lower Face	下庭
+	Lower Lid	眼瞼下至
+	Lower Lip	豐下唇
+	Mid Face	中庭
+	Mouth	嘴巴
+	Mouth Height	嘴巴上下
+	Mouth Shift	嘴巴左右
+	Mouth Size	嘴巴大小
+	Mouth Width	嘴寬
+	Neck	瘦脖子
+	Neck Length	脖子長度
+	Nose	鼻子
+	Nose Bridge	鼻樑
+	Nose Height	鼻高
+	Nose Shift	鼻子左右
+	Nose Size	鼻子大小
+	Nose Tip	鼻尖
+	Nose Wings	鼻翼
+	Outer Corner	外眼角
+	Philtrum	人中
+	Pointed Chin	尖下巴
+	Preset Strength	預設強度
+	Refine	精修
+	Retract Chin	收下巴
+	Shaping	塑形
+	Shoulder Width	肩寬
+	Silhouette Flow	身型流暢
+	Slim Body	瘦身
+	Slim Face	瘦臉
+	Straight Shoulders	直角肩
+	Swan Neck	天鵝頸
+	Symmetry	對稱
+	Temples	太陽穴
+	Thighs	大腿
+	Torso Length	上身長度
+	Turn Pitch	上下點頭
+	Turn Roll	頭部傾斜
+	Turn Yaw	左右轉頭
+	Upper Lip	豐上唇
+	V Face	V臉
+	Waist	瘦腰
+	Waist Length	腰部長度
+	Youthful	幼態
 	command or shortcut	指令或快速鍵
 	Commit any current edits ({key})	確認目前所有編輯 ({key})
 	Commit current crop operation  ({key})	確認目前的裁切作業 ({key})
