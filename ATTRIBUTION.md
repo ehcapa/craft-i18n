@@ -378,3 +378,6 @@ TextureCraft's `ui-egui/src/i18n` tables.
 Also adds five info-icon tooltip and note strings of the same window (the mesh path, Select..., Normal map
 format and UV tile hints, and the note that choosing or reimporting a mesh recomputes all channels) to the same nine
 catalogs, with the same AI-assisted origin and no native-speaker review.
+
+2026-11-20: zh-hans/zh-hant add PhotoCraft's "Body Sculpt…" (身体塑形…/身體塑形…) and
+"Face Sculpt…" (面部重塑…) Filter-menu labels, AI-assisted, no native-speaker review.

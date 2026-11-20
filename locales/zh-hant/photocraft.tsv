@@ -284,6 +284,7 @@ cameraRaw	Blending	混合
 	Blur More	再次模糊
 	Blur Tool	模糊工具
 fontWeight	Bold	粗體
+	Body Sculpt…	身體塑形…
 	Border…	邊界…
 	Both Axes	兩軸
 	Bottom Edges	底端邊緣
@@ -907,6 +908,7 @@ fontWeight	ExtraLight	特細
 	F cycles the views; hold X to see the image	按 F 切換檢視；按住 X 檢視影像
 cameraData	F-Stop	光圈值
 	Face	臉部
+	Face Sculpt…	面部重塑…
 	Facet	切面
 	Factor:	係數：
 	Fade	淡化
