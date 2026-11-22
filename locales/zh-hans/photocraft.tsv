@@ -251,6 +251,7 @@ cameraRaw	Amount	强度
 	Begin recording	开始录制
 	Behind	后面
 	Belly	瘦腹
+	Belly Line	腹线
 	Bevel	斜角
 	Bevel & Emboss	斜面和浮雕
 	Bevel & Emboss…	斜面和浮雕…
@@ -579,6 +580,7 @@ fontWeight	Bold	粗体
 	V Face	V脸
 	Waist	瘦腰
 	Waist Length	腰部长度
+	Waist Line	腰线
 	Youthful	幼态
 	command or shortcut	命令或快捷键
 	Commit any current edits ({key})	应用当前所有编辑（{key}）
@@ -1104,6 +1106,7 @@ cameraData	Focal Length (35 mm)	焦距（35 毫米等效）
 	Font Preview Size	字体预览大小
 	Font preview:	字体预览：
 	Font size presets	字号预设
+	Forearms & Hands	小臂与手
 	Foreground	前景色
 	Foreground Color	前景色
 	Foreground to Background	前景色到背景色
@@ -1853,6 +1856,7 @@ cameraData	Model	型号
 	Place Embedded…	置入嵌入对象…
 	Place Linked…	置入链接对象…
 	Place Scale Marker…	置入比例标记…
+	Placement	定位
 	Play selection	播放选中项
 	Playback Options	回放选项
 	Playback Options…	回放选项…

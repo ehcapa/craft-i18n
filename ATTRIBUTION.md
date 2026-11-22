@@ -385,3 +385,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 2026-11-20 (second batch): zh-hans/zh-hant add the PhotoCraft Body/Face Sculpt panel's
 section names, slider row labels, preset names and button strings (~86 entries each),
 AI-assisted, no native-speaker review.
+
+2026-11-22: zh-hans/zh-hant add the PhotoCraft Body Sculpt panel's "Placement" section
+(定位), its "Waist Line" (腰线/腰線) and "Belly Line" (腹线/腹線) row labels and the new
+"Forearms & Hands" (小臂与手/小臂與手) shaping row, AI-assisted, no native-speaker review.
