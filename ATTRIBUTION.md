@@ -389,3 +389,7 @@ AI-assisted, no native-speaker review.
 2026-11-22: zh-hans/zh-hant add the PhotoCraft Body Sculpt panel's "Placement" section
 (定位), its "Waist Line" (腰线/腰線) and "Belly Line" (腹线/腹線) row labels and the new
 "Forearms & Hands" (小臂与手/小臂與手) shaping row, AI-assisted, no native-speaker review.
+
+2026-11-24: zh-hans/zh-hant split the PhotoCraft Body Sculpt panel's "Slim Body" (瘦身) row
+into "Slim Upper Body" (瘦上身) and "Slim Full Body" (瘦全身), matching the panel's own
+split of the slider, AI-assisted, no native-speaker review.
